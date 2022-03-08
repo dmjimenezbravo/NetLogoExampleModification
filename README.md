@@ -113,7 +113,7 @@ It is important to pay attention to the installation folder, as it is in this fo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To use the model available in this repository [PathsModified.nlogo]() just open the tool and open the previously downloaded model on your computer.
+To use the model available in this repository [PathsModified.nlogo](https://github.com/dmjimenezbravo/NetLogoExampleModification/blob/main/NetLogo%20model/PathsModified.nlogo) just open the tool and open the previously downloaded model on your computer.
 
 The differences of the model in this repository in relation to the NetLogo Paths model are shown below:
 
